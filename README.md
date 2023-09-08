@@ -37,3 +37,6 @@ Copy your project files in this path ```/var/www/html```. The content that displ
 Nginx files are downloaded in this path ```/etc/nginx/```
 
 To config your project on nginx edit the ```/etc/nginx/sites-enabled/default``` file
+
+![image](https://github.com/umer6921/notes-app-nginx/assets/75561123/c925858c-4509-475f-a878-e062e3ef9f6e)
+
