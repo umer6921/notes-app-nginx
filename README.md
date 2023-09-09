@@ -38,5 +38,10 @@ Nginx files are downloaded in this path ```/etc/nginx/```
 
 To config your project on nginx edit the ```/etc/nginx/sites-enabled/default``` file
 
+### Docker is running
+![image](https://github.com/umer6921/notes-app-nginx/assets/75561123/82296970-301f-4d93-b024-182b83186335)
+
+![image](https://github.com/umer6921/notes-app-nginx/assets/75561123/a44bb4ca-2e54-4832-ab28-65aa79515bfa)
+
 ![image](https://github.com/umer6921/notes-app-nginx/assets/75561123/c925858c-4509-475f-a878-e062e3ef9f6e)
 
