@@ -43,5 +43,6 @@ To config your project on nginx edit the ```/etc/nginx/sites-enabled/default``` 
 
 ![image](https://github.com/umer6921/notes-app-nginx/assets/75561123/a44bb4ca-2e54-4832-ab28-65aa79515bfa)
 
-![image](https://github.com/umer6921/notes-app-nginx/assets/75561123/c925858c-4509-475f-a878-e062e3ef9f6e)
+![image](https://github.com/user-attachments/assets/279a3777-8e35-4cc5-8f61-be1ebda29991)
+
 
